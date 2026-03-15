@@ -56,13 +56,13 @@ This project was inspired by work done while building **Picxcale**, an AI-powere
 
 # 📦 Download Trained Model
 
-The trained model is available in **GitHub Releases**.
+Due to GitHub file size limits, the trained model is hosted on Google Drive.
 
 Download here:
+
 https://drive.google.com/file/d/1pxDHAh3K0cz7v2ujdpBy6-7SXHgBpWtK/view?usp=sharing
+
 Model file:
-
-
 final_production_model.keras
 
 
