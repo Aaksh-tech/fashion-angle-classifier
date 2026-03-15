@@ -59,8 +59,7 @@ This project was inspired by work done while building **Picxcale**, an AI-powere
 The trained model is available in **GitHub Releases**.
 
 Download here:
-https://github.com/Aaksh-tech/fashion-angle-classifier/releases
-
+https://drive.google.com/file/d/1pxDHAh3K0cz7v2ujdpBy6-7SXHgBpWtK/view?usp=sharing
 Model file:
 
 
